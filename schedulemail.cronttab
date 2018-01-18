@@ -1,0 +1,1 @@
+59 7 19 1 * echo 'assignment1 from yunchi li' | mail -s 'assignment1' davidwcr@usc.edu
